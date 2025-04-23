@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Ricardo Ruiz
+# 👋 Olá! Sou o Ricardo Ruiz
 
 🎓 Estudante de Ciência de Dados  
 🌍 Rio Grande do Sul - Brasil  
