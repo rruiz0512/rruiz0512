@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Ricardo Ruiz
 
 🎓 Estudante de Ciência de Dados  
-🌍 Do Rio Grande do Sul - Brasil  
+🌍 Rio Grande do Sul - Brasil  
 💻 Explorando Python e Machine Learning  
 📊 Apaixonado por novas tecnologias
 
