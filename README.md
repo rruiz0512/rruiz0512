@@ -31,7 +31,7 @@
 
 ## 📫 Como me encontrar
 
-- GitHub: [github.com/rruiz0512
+- GitHub: [github.com/rruiz0512]
 
 ---
 
