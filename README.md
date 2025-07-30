@@ -31,12 +31,12 @@
 
 ## 📫 Como me encontrar
 
-- GitHub: [github.com/seu-usuario](https://github.com/rruiz0512)
+- GitHub: [github.com/rruiz0512
 
 ---
 
 > *"Ciência de Dados é a arte de transformar perguntas em respostas por meio de dados."*  
-> — Eu mesmo... ou algum pensador por aí 😄
+
 
 
 <!--
