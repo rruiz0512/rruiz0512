@@ -1,4 +1,4 @@
-# 👋 Olá! Sou o Ricardo Ruiz
+# 👋 Olá! Eu sou o Ricardo Ruiz
 
 🎓 Estudante de Ciência de Dados  
 🌍 Rio Grande do Sul - Brasil  
@@ -11,6 +11,7 @@
 
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Visualização de Dados
+- Processamento de dAdos
 - Git e GitHub
 ---
 
@@ -18,7 +19,7 @@
 
 - 🕸️ **Coleta de Dados Web**  
   Automatização de extração de conteúdo para análise de texto.
-
+  Modelagem estatística 
 ---
 
 ## 💡 Próximos passos
