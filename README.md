@@ -1,18 +1,19 @@
 # 👋 Olá! Eu sou o Ricardo Ruiz
 
-🎓 Estudante de Ciência de Dados  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 🌍 Rio Grande do Sul - Brasil  
-💻 Explorando Python e Machine Learning  
+💻 Explorando Python, My SQL e Machine Learning  
 📊 Apaixonado por novas tecnologias
 
 ---
 
 ## 🧠 Habilidades em desenvolvimento
 
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
-- Visualização de Dados
-- Processamento de dAdos
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn, pyautogui)
+- Visualização de sados
+- Processamento de dados
 - Git e GitHub
+- MySQL
 ---
 
 ## 🚧 Projetos em andamento
@@ -36,7 +37,6 @@
 
 ---
 
-> *"Ciência de Dados é a arte de transformar perguntas em respostas por meio de dados."*  
 
 
 
