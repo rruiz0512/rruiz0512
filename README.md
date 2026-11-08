@@ -27,8 +27,7 @@
 
 ## 📫 Como me encontrar
 
-- GitHub: [github.com/rruiz0512]
-
+- Linkedin [www.linkedin.com/in/rricardop]
 ---
 
 
