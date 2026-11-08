@@ -10,17 +10,11 @@
 ## 🧠 Habilidades em desenvolvimento
 
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, pyautogui)
-- Visualização de sados
-- Processamento de dados
+- Visualização de dados
+- Processamento/Tratamento de dados
 - Git e GitHub
 - MySQL
----
 
-## 🚧 Projetos em andamento
-
-- 🕸️ **Coleta de Dados Web**  
-  Automatização de extração de conteúdo para análise de texto.
-  Modelagem estatística 
 ---
 
 ## 💡 Próximos passos
